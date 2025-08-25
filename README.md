@@ -2,14 +2,13 @@
 
 🎓 I'm a **Frontend Developer** currently studying at **Alfraganus University** and working at **Complex Solution IT Company**
 
----
+
 
 ### 📫 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azizayadgarova)
 [![Gmail](https://img.shields.io/badge/yadgarovaa277@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadgarovaa277@gmail.com)
 
----
 
 ### 💼 About Me
 
@@ -19,7 +18,7 @@
 🌱 Currently learning: `Tailwind CSS`, `Flowbite`  
 ⚡ Fun fact: _Constantly learning, always curious._
 
----
+
 
 ### 🚀 Technologies & Tools
 
@@ -32,7 +31,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-4F46E5?style=for-the-badge&logo=flowbite&logoColor=white)
 
----
+
 
 ### 📊 GitHub Stats
 
