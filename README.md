@@ -1,4 +1,5 @@
-# Hi I'm Aziza Yadgarova <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi I'm Aziza 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 🎓 I'm a **Frontend Developer** currently studying at **Alfraganus University** and working at **Complex Solution IT Company**.
 
