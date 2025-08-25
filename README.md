@@ -1,4 +1,3 @@
-
 # Hi I'm Azizayadgarova 👋
 
 I'm a passionate Frontend Developer.
@@ -20,3 +19,4 @@ I'm a passionate Frontend Developer.
 ---
 
 > _Thanks for visiting my profile! ⭐_
+<img width="1918" height="863" alt="image" src="https://github.com/user-attachments/assets/14525573-9fff-4ec1-aa77-d46e71db46a5" />
