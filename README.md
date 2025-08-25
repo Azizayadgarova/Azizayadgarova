@@ -1,7 +1,6 @@
-# Hi I'm Aziza 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi I'm Aziza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-🎓 I'm a **Frontend Developer** currently studying at **Alfraganus University** and working at **Complex Solution IT Company**.
+🎓 I'm a **Frontend Developer** currently studying at **Alfraganus University** and working at **Complex Solution IT Company**
 
 ---
 
@@ -14,11 +13,11 @@
 
 ### 💼 About Me
 
-- 🔭 Currently working at **Complex Solution IT Company**
-- 🧑‍🎓 Studying at **Alfraganus University**
-- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `React.js`, `Redux`, `GitHub`
-- 🌱 Currently learning: `Tailwind CSS`, `Flowbite`
-- ⚡ Fun fact: _Constantly learning, always curious._
+🔭 Currently working at **Complex Solution IT Company**  
+🧑‍🎓 Studying at **Alfraganus University**  
+💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `React.js`, `Redux`, `GitHub`  
+🌱 Currently learning: `Tailwind CSS`, `Flowbite`  
+⚡ Fun fact: _Constantly learning, always curious._
 
 ---
 
@@ -35,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Aziza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azizayadgarova&show_icons=true&theme=github_dark)
 
