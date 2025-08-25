@@ -1,22 +1,33 @@
-# Hi I'm Azizayadgarova 👋
+# Hi, I'm Aziza Yadgarova 👋
 
-I'm a passionate Frontend Developer.
+I'm a Frontend Developer currently studying at **Alfraganus University** and working at **Complex Solution IT Company**.
 
-💻 I’m currently working on improving my HTML, CSS, and JavaScript skills  
-📚 Currently learning: React, Git, and responsive design  
-💬 Ask me about: HTML, CSS, GitHub  
-📫 How to reach me: [youremail@example.com](mailto:youremail@example.com)  
-🎯 Fun fact: I enjoy coding and learning new things every day!
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Azizayadgarova)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/Azizayadgarova)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Azizayadgarova)
 
-## 🚀 Top Technologies
+## 💼 Current position
+👩‍💻 Working at **Complex Solution IT Company**  
+🎓 Studying at **Alfraganus University**
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+## 💬 Ask me about
+**HTML, CSS, JavaScript, React.js, Redux, GitHub**
+
+## 🌱 I’m currently learning
+**Tailwind CSS, Flowbite**
+
+## ⚡ Fun fact
+🌱 Constantly learning, always curious.
 
 ---
 
-> _Thanks for visiting my profile! ⭐_
-<img width="1918" height="863" alt="image" src="https://github.com/user-attachments/assets/14525573-9fff-4ec1-aa77-d46e71db46a5" />
+### 🚀 Top Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flowbite](https://img.shields.io/badge/Flowbite-4F46E5?style=for-the-badge&logo=flowbite&logoColor=white)
+
